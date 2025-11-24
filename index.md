@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - dynamic ip
   - dns fallback
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a Bash script automating the resolution and export of WAN IP addresses for home
+  network automation. This fits well under Automation, which includes scripts for automating
+  workflows and system tasks. Other families like devtools or personal are less fitting because the
+  core focus is on automating a technical network-related task.
 ---
 
 # pullhomeip: Resolving WAN IP via Public DNS
@@ -72,3 +79,4 @@ The script uses strict error handling (`set -euo pipefail`) to avoid silent fail
 This project provides a minimal, reliable method to resolve and export a dynamic WAN IP address using multiple DNS resolvers with fallback strategies. It is practical for home network automation where knowing the current external IP is necessary. The approach balances simplicity with robustness by leveraging standard Unix tools and clear logging.
 
 When returning to this project, focus on the resolver sequence, fallback logic, and environment file update mechanism as the core functional components.
+
