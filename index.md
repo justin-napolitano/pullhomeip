@@ -1,12 +1,27 @@
 ---
-slug: "github-pullhomeip"
-title: "pullhomeip"
-repo: "justin-napolitano/pullhomeip"
-githubUrl: "https://github.com/justin-napolitano/pullhomeip"
-generatedAt: "2025-11-23T09:28:15.105379Z"
-source: "github-auto"
+slug: github-pullhomeip
+title: 'pullhomeip: Bash Script to Resolve WAN IP Using Public DNS and Fallbacks'
+repo: justin-napolitano/pullhomeip
+githubUrl: https://github.com/justin-napolitano/pullhomeip
+generatedAt: '2025-11-23T09:28:15.105379Z'
+source: github-auto
+summary: >-
+  Bash script that resolves the current WAN IP via multiple public DNS resolvers with fallback
+  methods, exporting it as an environment variable with logging.
+tags:
+  - bash
+  - dns
+  - wan-ip
+  - home-network
+  - shell-script
+seoPrimaryKeyword: wan ip resolution
+seoSecondaryKeywords:
+  - public dns
+  - bash script
+  - dynamic ip
+  - dns fallback
+seoOptimized: true
 ---
-
 
 # pullhomeip: Resolving WAN IP via Public DNS
 
