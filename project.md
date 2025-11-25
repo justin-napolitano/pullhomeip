@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/pullhomeip
 generatedAt: '2025-11-24T21:36:02.828Z'
 source: github-auto
 summary: >-
-  A shell script for resolving and exporting your home network's WAN IP using
-  multiple DNS resolvers.
+  A shell script for resolving and exporting your home network's WAN IP using multiple DNS
+  resolvers.
 tags:
   - bash
   - dns
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - home network ip script
   - lightweight ip resolver
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -107,3 +107,4 @@ pullhomeip/
 ---
 
 This project assumes the user wants a lightweight, reliable way to update their WAN IP environment variable for scripts or other automation that depends on the current external IP address.
+
