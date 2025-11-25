@@ -1,19 +1,28 @@
 ---
 slug: github-pullhomeip
 id: github-pullhomeip
-title: pullhomeip
+title: Automate WAN IP Resolution with PullHomeIP Script
 repo: justin-napolitano/pullhomeip
 githubUrl: https://github.com/justin-napolitano/pullhomeip
 generatedAt: '2025-11-24T21:36:02.828Z'
 source: github-auto
 summary: >-
-  A simple shell script to resolve and export the current WAN IP address of a
-  home network by querying multiple public DNS resolvers. The script logs
-  results and updates an environment file with the resolved IP.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A shell script for resolving and exporting your home network's WAN IP using
+  multiple DNS resolvers.
+tags:
+  - bash
+  - dns
+  - dig
+  - automation
+  - shell scripting
+seoPrimaryKeyword: wan ip resolution script
+seoSecondaryKeywords:
+  - bash script for wan ip
+  - dns resolver automation
+  - export wan ip
+  - home network ip script
+  - lightweight ip resolver
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
