@@ -1,33 +1,42 @@
 ---
 slug: github-pullhomeip
-title: 'pullhomeip: Bash Script to Resolve WAN IP Using Public DNS and Fallbacks'
+title: 'pullhomeip: Retrieve Dynamic WAN IP via Public DNS'
 repo: justin-napolitano/pullhomeip
 githubUrl: https://github.com/justin-napolitano/pullhomeip
 generatedAt: '2025-11-23T09:28:15.105379Z'
 source: github-auto
 summary: >-
-  Bash script that resolves the current WAN IP via multiple public DNS resolvers with fallback
-  methods, exporting it as an environment variable with logging.
+  Learn how to resolve and export your WAN IP using a Bash script with multiple
+  DNS resolvers and fallback strategies.
 tags:
   - bash
   - dns
   - wan-ip
   - home-network
   - shell-script
-seoPrimaryKeyword: wan ip resolution
-seoSecondaryKeywords:
-  - public dns
-  - bash script
   - dynamic ip
-  - dns fallback
+  - networking
+  - automation
+  - logging
+  - cron
+seoPrimaryKeyword: dynamic WAN IP resolution
+seoSecondaryKeywords:
+  - public DNS resolvers
+  - bash scripting
+  - network automation
+  - environment variables
+  - IP address retrieval
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post describes a Bash script automating the resolution and export of WAN IP addresses for home
-  network automation. This fits well under Automation, which includes scripts for automating
-  workflows and system tasks. Other families like devtools or personal are less fitting because the
-  core focus is on automating a technical network-related task.
+  The post describes a Bash script automating the resolution and export of WAN
+  IP addresses for home network automation. This fits well under Automation,
+  which includes scripts for automating workflows and system tasks. Other
+  families like devtools or personal are less fitting because the core focus is
+  on automating a technical network-related task.
+kind: project
+id: github-pullhomeip
 ---
 
 # pullhomeip: Resolving WAN IP via Public DNS
